@@ -268,7 +268,7 @@ public class Minesweeper {
         }
 
     }
-    //ask where to check   //optional: add flags with '!'
-    //if you click on a zero you must check for neighboring zeros
-    //if you click on a bomb the game ends and you can start again
+    //TODO:
+        //ask where to check   //optional: add flags with '!'
+        //add win if you flag all bombs (and no safe spaces)
 }
